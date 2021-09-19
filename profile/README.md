@@ -6,6 +6,8 @@
 
 This organisation holds the best projects developed by [Sashwat K](https://github.com/sashuu6) in the field of Electronics.
 
+We are currently building projects using micro-controllers and Single Board Computers (SBCs). We will soon start building projects on FPGAs.
+
 All the public projects are free and open source under GPL license.
 
 Contributions from others are welcomed.
